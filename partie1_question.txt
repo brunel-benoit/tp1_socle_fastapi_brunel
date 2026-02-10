@@ -1,9 +1,0 @@
-1)
-
-FASTAPI = frameworks pour creer des API
-UVICORN = serveur pour executer les applications python
-pydantic =  definit des modeles de donnees, assurer une validation automatiques des donnees recu par les api 
-
-2)
-
-pip freeze > requirements-dev.txt
