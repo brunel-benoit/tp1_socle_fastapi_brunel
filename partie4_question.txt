@@ -1,0 +1,19 @@
+cas1
+1)http://127.0.0.1:8000/users/1
+2)id    1
+
+cas 2
+1)127.0.0.1:8000/users/benoit
+2)
+detail
+0
+type    "int_parsing"
+loc
+0    "path"
+1    "user_id"
+msg    "Input should be a valid integer, unable to parse string as an integer"
+input    "benoit"
+
+
+4.3)
+le pipe n'est pas supporter par la version 3.8 de python
